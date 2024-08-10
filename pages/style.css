@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+.mainframe {
+
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-bottom: 20px;
+    height: 580px;
+    width: 450px;
+    background-color: #3D3D5C;
+    border-radius: 20px;
+    border: 5px solid;
+
+}
+
+.screen {
+    font-size: xx-large;
+    position: relative;
+    text-align: right;
+    height: 60px;
+    width: 410px;
+    background-color: #A1AF77;
+    top: 30px;
+    left: 20px;
+    border: 4px solid;
+    border-radius: 8px;
+
+}
+
+.btn1 {
+    flex-direction: row;
+    height: 60px;
+    width: 85px;
+    position: relative;
+    margin-top: 80px;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 3px solid;
+    font-size: larger;
+    font-weight: 600;
+
+}
+
+.btn2 {
+
+    flex-direction: row;
+    height: 60px;
+    width: 85px;
+    position: relative;
+    margin-top: 25px;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 3px solid;
+    font-size: larger;
+    font-weight: 600;
+
+}
+
+.btn3 {
+    flex-direction: row;
+    height: 60px;
+    width: 85px;
+    position: relative;
+    margin-top: 25px;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 3px solid;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.btn4 {
+    flex-direction: row;
+    height: 60px;
+    width: 85px;
+    position: relative;
+    margin-top: 25px;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 3px solid;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.btn5 {
+    flex-direction: row;
+    height: 60px;
+    width: 85px;
+    position: relative;
+    margin-top: 25px;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 3px solid;
+    font-size: larger;
+    font-weight: 600;
+
+}
+
+.equal {
+
+    height: 140px;
+    width: 80px;
+    background-color: #FF6348;
+    border-radius: 15px;
+    border: 4px solid;
+    position: relative;
+    left: 25px;
+    bottom: 50px;
+    font-size: larger;
+    font-weight: 600;
+}
